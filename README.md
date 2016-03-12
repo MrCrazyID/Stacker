@@ -11,7 +11,7 @@ This is not my best work, but the game is still pretty good as a "game".
 * Multiple modes: `Easy`, `Medium`, `Hard`
 
 # Gameplay
-<img src="./misc/images/gameplay_cpp.gif" alt="gameplay" width="300">
+<img src="./misc/images/gameplay_cpp.gif" alt="gameplay" width="300">  
 This gif shows the gameplay of stacker.
 
 # Source
