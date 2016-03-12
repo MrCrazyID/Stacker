@@ -21,7 +21,8 @@ For the C++ source see [this](./stacker_cpp/) link or the [./stacker_cpp/](./sta
 
 ## Warning
 Don't use this software as an example for *how-to program*.  
-I know that the quality of the code is not that great. If I'm ever in the mood or have the time to rebuild it, I shall do it. And when I revised it, I will delete this part.   Until then, if you read this I haven't had the time to fix it or you're just looking at an old revision. (If it is the latter, hi future people)
+I know that the quality of the code is not that great. If I'm ever in the mood or have the time to rebuild it, I shall do it.  
+When I revise it, I will delete this part. Until then, if you read this I haven't had the time to fix it or you're just looking at an old revision. <sub>(If it is the latter, hi future people</sub>)
 
 # License
 >You can check out the full license [here](LICENSE)
