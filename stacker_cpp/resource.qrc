@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/stacker2.0.png</file>
+        <file>images/stacker_logo.jpg</file>
+        <file>images/pause_button.png</file>
+        <file>images/play_button.png</file>
+        <file>images/logo/StackerLogoGreen.png</file>
+        <file>images/logo/StackerLogoNeutral.png</file>
+        <file>images/logo/StackerLogoPurple.png</file>
+        <file>images/logo/StackerLogoRed.png</file>
+        <file>images/logo/StackerLogoYellow.png</file>
+        <file>images/doge.jpeg</file>
+        <file>images/EndGame/lost/DadYouLost.jpg</file>
+        <file>images/EndGame/lost/IAmA.jpg</file>
+        <file>images/EndGame/lost/JesusSaysYouJustLostTheGame.jpg</file>
+        <file>images/EndGame/lost/RosesAreRedVioletsAreBlue.jpg</file>
+        <file>images/EndGame/lost/youjustlost.jpg</file>
+        <file>images/EndGame/lost/YouLostTheGame.jpg</file>
+        <file>images/EndGame/won/EpicWin.jpg</file>
+        <file>images/EndGame/won/FredMercury.png</file>
+        <file>images/EndGame/won/ObamaVictory.jpeg</file>
+        <file>images/EndGame/won/ThanksObama.jpg</file>
+        <file>images/EndGame/won/WinAllTheGames.jpg</file>
+        <file>images/EndGame/won/Winner.jpg</file>
+        <file>fonts/Arial Rounded MT Bold Bold.ttf</file>
+        <file>fonts/Rust.ttf</file>
+        <file>fonts/Minercraftory.ttf</file>
+        <file>images/icons/About.png</file>
+        <file>images/icons/Help.png</file>
+        <file>images/icons/MainMenu.png</file>
+        <file>images/icons/Quit.png</file>
+        <file>images/icons/Settings.png</file>
+        <file>images/icons/CheckForUpdates.png</file>
+        <file>images/doge_logo.png</file>
+    </qresource>
+</RCC>
